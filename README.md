@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Kristaps Ozols and I am learning to become a better Software Developer. Always open to learning something new. 
+
+- 🔭 I’m currently working on flight planner API to improve my skills with Spring Boot.
+
+
 <!--
 **kristapsozy/kristapsozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
