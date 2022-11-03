@@ -4,7 +4,7 @@ My name is Kristaps Ozols and I am learning to become a better Software Develope
 
 - 🔭 I’m currently working on flight planner API to improve my skills with Spring Boot.
 
-🧰 My toolbox:
+My toolbox:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github logo" width="50" height="50" />
@@ -12,7 +12,8 @@ My name is Kristaps Ozols and I am learning to become a better Software Develope
 
 
 
-### 📫 How to reach me: 
+### How to reach me: 
+[![Linkedin logo](https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png)](https://www.linkedin.com/in/kristaps-ozols/)
 
 
 
