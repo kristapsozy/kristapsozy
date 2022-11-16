@@ -5,6 +5,7 @@
 My name is Kristaps Ozols and I am learning to become a better Software Developer. Always open to learning something new. 
 
 - 🔭 I’m currently working on flight planner API to improve my skills with Spring Boot.
+- 📚 I’m currently learning Angular.
 
 ---
 
