@@ -2,9 +2,7 @@
 
 ### Hi there 👋
 
-My name is Kristaps Ozols I'm a motivated Java developer with a passion for programming. Always open to new opportunities. Life is boring without challenges.
-
-🔭 I’m currently working on flight planner API to improve my skills with Spring Boot.
+My name is Kristaps Ozols I'm a motivated Full-stack developer with a passion for programming. Always open to new opportunities.
 
 ---
 
