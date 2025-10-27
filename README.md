@@ -6,7 +6,7 @@ My name is Kristaps Ozols I'm a motivated Full-stack developer with a passion fo
 
 ---
 
-### My toolbox: <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="Gradle logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Git logo" width="50" height="50" />
+### My toolbox: <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Git logo" width="50" height="50" />
 
 ---
 
