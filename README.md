@@ -15,14 +15,6 @@ My name is Kristaps Ozols I'm a motivated Full-stack developer with a passion fo
 
 ---
 
-### My GitHub stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristapsozy&show_icons=true&theme=radical)
-
-
-
----
-
-
 
 <!--
 **kristapsozy/kristapsozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
